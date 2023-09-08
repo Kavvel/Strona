@@ -12,9 +12,10 @@ h1 {
 }
 h2{
     background-color: #ffffff;
-    color: #fff;
+    color: #333;
     text-align: center;
-    padding: 20px 0; 
+    padding: 20px; 
+
 }
 
 form {
